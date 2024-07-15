@@ -21,6 +21,7 @@ repository
     ├── requirements.txt            # Lists the dependencies required to run the project
     ├── test_labels.csv             # Output file containing predicted labels for the test data
     ├── report_notebook.ipynb       # Jupyter notebook explaining the problem, solution, and justifications
+    ├── .gitignore                  # Specifies files and directories to be ignored by git
     └── README.md                   # Provides an overview, installation instructions, and usage information for the project
 
 
