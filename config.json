@@ -1,0 +1,6 @@
+{
+    "kernel": "rbf", 
+    "gamma": "auto", 
+    "C": 10, 
+    "random_state": 42
+}
